@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , my name is Nikolay Valev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Nikolay Valev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
 <h4 align="center">Results-oriented innovative software developer. Passionate about networking, automation and financial analysis. Familiar with a
 wide range of programing languages and software products. Seeking new challenges to further grow as a professional.</h4>
