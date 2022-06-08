@@ -4,11 +4,7 @@
 <h4 align="center">Results-oriented innovative software developer. Passionate about networking, automation and financial analysis. Familiar with a
 wide range of programing languages and software products. Seeking new challenges to further grow as a professional.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolayValev&theme=algolia" alt="NikolayValev"  /></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NikolayValev&label=Profile%20views&color=0e75b6&style=plastic" alt="NikolayValev" /> </p>
 
 ## 🛠️ My Skills
 
